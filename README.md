@@ -245,3 +245,11 @@ The application implements accessibility features:
 - Keyboard navigation
 - Focus management
 - Clear labeling
+
+## Working Application SneekPeek
+
+![photo_2025-03-05_21-32-45](https://github.com/user-attachments/assets/21fd1631-d983-4a45-9582-184e65416987)
+
+![photo_2025-03-05_21-32-48](https://github.com/user-attachments/assets/955b6ec8-7a4c-4a80-8d04-bb17225d8297)
+
+
